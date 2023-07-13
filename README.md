@@ -1,1 +1,3 @@
 # redstore---demo-
+
+shopping basic website for beginners with html css...
